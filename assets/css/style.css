@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background: lightskyblue;
+    margin: auto;
+  }
+  
+  img {
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+  }
+
+  h1 {
+   text-align:left;
+  }
+  
+   
+  
